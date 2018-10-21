@@ -1,1 +1,1 @@
-# -Molecular-Data-Analysis-Using-R-Solutions
+Exercise Solutions to Molecular Data Analysis Using R
